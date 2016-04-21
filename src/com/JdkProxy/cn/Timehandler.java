@@ -5,8 +5,6 @@ import java.lang.reflect.Method;
 
 /**
  * Created by shenlijun on 2016/4/21.
- * Timehandler 实现InvocationHandler，
- * 为了传参数方便，创建了一个参数为Object的构造方法
  */
 public class Timehandler implements InvocationHandler {
 

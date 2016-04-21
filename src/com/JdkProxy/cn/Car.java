@@ -4,6 +4,7 @@ import java.util.Random;
 
 /**
  * Created by shenlijun on 2016/4/21.
+ * 真正的对象：即为：被代理的对象
  */
 public class Car implements Moveable {
     @Override
